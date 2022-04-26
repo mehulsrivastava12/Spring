@@ -1,7 +1,6 @@
 package com.springcore.lifecycle;
 
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
+import javax.annotation.*;
 
 public class Example {
 	private String subject;
